@@ -1,6 +1,6 @@
 Jonas Janzegers
 ================================
-
+![Logo](http://francky.me/images/quora001.png)
 |Info|  |
 |----|---|
 |Olod|New Media Design & Development I|
