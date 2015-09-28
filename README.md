@@ -39,8 +39,4 @@ Arteveldehogeschool
 Copyright and license
 ---------------------
 
-<<<<<<< HEAD
-Code en documentatie copyright 2003-2016 [Arteveldehogeschool](http://www.arteveldehogeschool.be) | Opleiding Grafische en digitale media | drdynscript. Cursusmateriaal, zoals code, documenten, ... uitgebracht onder de [MIT licentie](LICENSE).
-=======
-Code en documentatie copyright 2003-2016 [Arteveldehogeschool](http://www.arteveldehogeschool.be) | Opleiding Grafische en digitale media | drdynscript. Cursusmateriaal, zoals code, documenten, ... uitgebracht onder de [MIT licentie](LICENSE).
->>>>>>> bbbd2a58965c09f883ebe0227e8ab102cf27af81
+By Jonas Janzegers
