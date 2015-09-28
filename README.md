@@ -40,3 +40,6 @@ Copyright and license
 ---------------------
 
 By Jonas Janzegers
+
+
+![logo](images/logo Github.png "Logo nmdad")
