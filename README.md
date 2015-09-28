@@ -14,34 +14,17 @@ Jonas Janzegers
 Documenten
 ----------
 
-* [Inleiding](docs/inleiding.md)
-* [Werkstuk](docs/werkstuk.md)
-* [Werkstuk groepsindeling](docs/werkstuk_groepsindeling.md)
-* [Proxy instellingen Arteveldehogeschool](docs/proxysettings.md)
-* [Git](docs/git.md)
-* [Markdown](docs/markdown.md)
+* [Résumé](https://github.com/jonajanz/gdm-201516-nmdad1/blob/master/docs/R%C3%A9sum%C3%A9.md)
 
 Taken
 -----
-* [Blended Learning](tasks/blended_learning.md) 
-* [Development - Week 1](tasks/week1.md) 
+* [Résumé](https://github.com/jonajanz/gdm-201516-nmdad1/blob/master/docs/R%C3%A9sum%C3%A9.md)
 
 Auteurs
 --------
 
 **Philippe De Pauw - Waterschoot**
 
-* <http://twitter.com/drdynscript>
-* <http://github.com/drdynscript>
-* <http://bitbucket.org/drdynscript>
-* <https://www.linkedin.com/pub/philippe-de-pauw/6/a33/5a5>
-* <philippe.depauw@arteveldehs.be>
-	
-**Jonas Pottie**
-
-* <http://twitter.com/jonaspottie>
-* <https://www.linkedin.com/in/jonaspottie>
-* <jonas.pottie@arteveldehs.be>
 
 Arteveldehogeschool
 -------------------
@@ -56,4 +39,4 @@ Arteveldehogeschool
 Copyright and license
 ---------------------
 
-Code en documentatie copyright 2003-2016 Arteveldehogeschool | Opleiding Grafische en digitale media | drdynscript. Cursusmateriaal, zoals code, documenten, ... uitgebracht onder de   Creative Commons licentie.
+Code en documentatie copyright 2003-2016 [Arteveldehogeschool](http://www.arteveldehogeschool.be) | Opleiding Grafische en digitale media | drdynscript. Cursusmateriaal, zoals code, documenten, ... uitgebracht onder de [MIT licentie](LICENSE).
