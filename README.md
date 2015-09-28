@@ -18,7 +18,8 @@ Documenten
 
 Taken
 -----
-* [Résumé](https://github.com/jonajanz/gdm-201516-nmdad1/blob/master/docs/R%C3%A9sum%C3%A9.md)
+* [Blended Learning](tasks/blended_learning.md) 
+* [Development - Week 1](tasks/week1.md) 
 
 Auteurs
 --------
