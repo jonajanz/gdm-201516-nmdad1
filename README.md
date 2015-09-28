@@ -1,4 +1,4 @@
-New Media Design & Development I
+Jonas Janzegers
 ================================
 
 |Info|  |
